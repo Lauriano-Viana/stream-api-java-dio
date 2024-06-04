@@ -1,18 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="dd9ff26e-6d28-4620-a789-b92a295ca4db" name="Changes" comment="" />
+    <list default="true" id="dd9ff26e-6d28-4620-a789-b92a295ca4db" name="Changes" comment="segundo commit stream api dio BinaryOperatorExample">
+      <change afterPath="$PROJECT_DIR$/src/functional_interface/desafios/Desafio01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/functional_interface/desafios/Desafio02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/functional_interface/desafios/Desafio03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/functional_interface/desafios/Desafio04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/functional_interface/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Lauriano-Viana&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Lauriano-Viana/stream-api-java-dio.git&quot;,
+    &quot;accountId&quot;: &quot;a1269cb9-6389-4947-9cf4-0bc28c0cddb7&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2hNoxht59A47sNcMIgpWKgvMGqw" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -21,12 +53,86 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Desafio01.executor": "Run",
+    "Application.Desafio02.executor": "Run",
+    "Application.Desafio03.executor": "Run",
+    "Application.Desafio04.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "/media/lauriano/LCV-PARTIÇÃO/curso/bootcamp-dio/estudos/collections-java/stream-api-java-dio/src/Main.java"
+    "onboarding.tips.debug.path": "/media/lauriano/LCV-PARTIÇÃO/curso/bootcamp-dio/estudos/collections-java/stream-api-java-dio/src/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="functional_interface.desafios" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Desafio04">
+    <configuration name="Desafio01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="functional_interface.desafios.Desafio01" />
+      <module name="stream-api-java-dio" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="functional_interface.desafios.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Desafio02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="functional_interface.desafios.Desafio02" />
+      <module name="stream-api-java-dio" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="functional_interface.desafios.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Desafio03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="functional_interface.desafios.Desafio03" />
+      <module name="stream-api-java-dio" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="functional_interface.desafios.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Desafio04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="functional_interface.desafios.Desafio04" />
+      <module name="stream-api-java-dio" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="functional_interface.desafios.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Desafio04" />
+        <item itemvalue="Application.Desafio03" />
+        <item itemvalue="Application.Desafio02" />
+        <item itemvalue="Application.Desafio01" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -36,17 +142,28 @@
       <option name="presentableId" value="Default" />
       <updated>1717444145692</updated>
     </task>
+    <task id="LOCAL-00001" summary="primeiro commit stream api dio">
+      <option name="closed" value="true" />
+      <created>1717449325697</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1717449325697</updated>
+    </task>
+    <task id="LOCAL-00002" summary="segundo commit stream api dio BinaryOperatorExample">
+      <option name="closed" value="true" />
+      <created>1717451516508</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1717451516508</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Main.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="primeiro commit stream api dio" />
+    <MESSAGE value="segundo commit stream api dio BinaryOperatorExample" />
+    <option name="LAST_COMMIT_MESSAGE" value="segundo commit stream api dio BinaryOperatorExample" />
   </component>
 </project>
